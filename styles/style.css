@@ -1,10 +1,15 @@
-p,li,h1{
-    color: red;
-    width: 500px;
-    border: 1px solid black;
+html{
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high */
+    font-family: 'Saira Condensed', sans-serif;
 }
 
-h1{
-    color:blue;
-    border: 5px solid pink;
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
 }
