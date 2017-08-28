@@ -1,3 +1,10 @@
-p{
+p,li,h1{
     color: red;
+    width: 500px;
+    border: 1px solid black;
+}
+
+h1{
+    color:blue;
+    border: 5px solid pink;
 }
